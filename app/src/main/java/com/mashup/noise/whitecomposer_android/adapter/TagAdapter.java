@@ -1,11 +1,11 @@
-package adapter;
+package com.mashup.noise.whitecomposer_android.adapter;
 
 import android.app.Activity;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.view.ViewGroup;
 
-import Holder.TagHolder;
+import com.mashup.noise.whitecomposer_android.Holder.TagHolder;
 
 public class TagAdapter extends CustomMusicRootAdapter {
     
