@@ -1,4 +1,4 @@
-package adapter;
+package com.mashup.noise.whitecomposer_android.adapter;
 
 import android.app.Activity;
 import android.support.v7.widget.RecyclerView;
