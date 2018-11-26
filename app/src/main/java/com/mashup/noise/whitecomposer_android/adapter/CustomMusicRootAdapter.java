@@ -1,9 +1,10 @@
 package com.mashup.noise.whitecomposer_android.adapter;
 
 import android.app.Activity;
-import android.support.v7.widget.RecyclerView;
 
 import java.util.ArrayList;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 public abstract class CustomMusicRootAdapter extends RecyclerView.Adapter{
     private Activity activity;

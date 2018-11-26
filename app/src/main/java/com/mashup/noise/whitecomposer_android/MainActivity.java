@@ -1,9 +1,11 @@
 package com.mashup.noise.whitecomposer_android;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.mashup.noise.whitecomposer_android.ViewInfo.MainView;
+
+import androidx.appcompat.app.AppCompatActivity;
+
 
 public class MainActivity extends AppCompatActivity {
 
